@@ -7,3 +7,4 @@ Leyenda de archivos:
  - Grabado laser.gcode: Código para el corte de las chapas de aluminio de 1mm de espesor, corresponde a las protecciones y a la chapa de decoración.
  - Operación corte.txt: Código para la operación de grabado del logo de la UPNA e información del trabajo en la chapa de edcoración.
  
+ Simulador de código utilizado para la comprobación del código de corte escrito manualmente: https://nraynaud.github.io/webgcode/
