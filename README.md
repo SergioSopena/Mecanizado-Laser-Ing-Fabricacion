@@ -1,4 +1,4 @@
-Codigo CNC para el mecanizado de algunas piezas para la fabricación de un maletín de poker. Trabajo realizado por el grupo 02 de la asignatura Ingeniería de fabricacion.
+Codigo CNC para el mecanizado por láser de algunas piezas para la fabricación de un maletín de poker. Trabajo realizado por el grupo 02 de la asignatura Ingeniería de fabricacion.
 
 Lenguaje utilizado: GCODE.
 Código generado a través de la aplicación LaserWeb/CNCWeb (Version 4.0).
