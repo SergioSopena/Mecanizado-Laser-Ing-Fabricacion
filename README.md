@@ -5,5 +5,5 @@ Código generado a través de la aplicación LaserWeb/CNCWeb (Version 4.0).
 
 Leyenda de archivos:
  - XXXXXXX: Código para el corte de las chapas de aluminio de 1mm de espesor, corresponde a las protecciones y a la chapa de decoración.
- - YYYYYYY: Código para la operación de grabado del logo de la UPNA e información del trabajo en la chapa de edcoración.
+ - CORTE LASER.txt: Código para la operación de grabado del logo de la UPNA e información del trabajo en la chapa de edcoración.
  
