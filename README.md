@@ -5,7 +5,7 @@ Lenguaje utilizado: GCODE.
 Código parcialmente generado a través de la aplicación LaserWeb/CNCWeb (Version 4.0).
 
 Leyenda de archivos:
- - Grabado laser.gcode: Código para el corte de las chapas de aluminio de 1mm de espesor, corresponde a las protecciones y a la chapa de decoración.
  - Operación corte.txt: Código para la operación de grabado del logo de la UPNA e información del trabajo en la chapa de edcoración.
+ - Grabado laser.gcode: Código para el corte de las chapas de aluminio de 1mm de espesor, corresponde a las protecciones y a la chapa de decoración.
  
  Simulador de código utilizado para la comprobación del código de la operación de corte escrito manualmente: https://nraynaud.github.io/webgcode/
