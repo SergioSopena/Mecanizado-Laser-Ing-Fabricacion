@@ -1,7 +1,9 @@
-# GCODE-Grabado-Laser-
-Grabado láser para trabajo de Ing. de Fabricación grupo 02
+Codigo CNC para el mecanizado de algunas piezas para la fabricación de un maletín de poker. Trabajo realizado por el grupo 02 de la asignatura Ingeniería de fabricacion.
 
-Código completo para el grabado.
-Código generado a través de la aplicación LaserWeb/CNCWeb (Version 4.0) en formato GCODE. Compatible con prácticamente la totalidad de máquinas CNC.
+Lenguaje utilizado: GCODE.
+Código generado a través de la aplicación LaserWeb/CNCWeb (Version 4.0).
 
-Los archivos con extension.gcode son los originales que contienen el código en lenguaje GCODE. Los .txt contienen el código en formato texto
+Leyenda de archivos:
+ - XXXXXXX: Código para el corte de las chapas de aluminio de 1mm de espesor, corresponde a las protecciones y a la chapa de decoración.
+ - YYYYYYY: Código para la operación de grabado del logo de la UPNA e información del trabajo en la chapa de edcoración.
+ 
