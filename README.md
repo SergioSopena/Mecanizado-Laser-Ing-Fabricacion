@@ -2,7 +2,7 @@
 Trabajo realizado por el grupo 02 de la asignatura Ingeniería de fabricacion.
 
 Lenguaje utilizado: GCODE.
-Código parcialmente generado a través de la aplicación LaserWeb/CNCWeb (Version 4.0).
+Código de la operación de grabado parcialmente generado a través de la aplicación LaserWeb/CNCWeb (Version 4.0).
 
 Leyenda de archivos:
  - Operación corte.txt: Código para la operación de grabado del logo de la UPNA e información del trabajo en la chapa de edcoración.
