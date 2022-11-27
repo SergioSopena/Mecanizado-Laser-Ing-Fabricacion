@@ -1,4 +1,4 @@
-# Codigo CNC para el corte y grabado por láser de algunas piezas para la fabricación de un maletín de póker.
+# Código CNC para el corte y grabado por láser de algunas piezas para la fabricación de un maletín de póker.
 Trabajo realizado por el grupo 02 de la asignatura Ingeniería de fabricacion.
 
 Lenguaje utilizado: GCODE.
