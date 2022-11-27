@@ -1,8 +1,5 @@
 G21
 G90
-
-; Pass 0
-
 M08; Enable Air assist
 
 ; First Move
